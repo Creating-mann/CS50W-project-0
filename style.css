@@ -1,0 +1,73 @@
+
+
+.mglass, .mic, .camera{
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    margin: 0px 5px;
+}
+.mglass{
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    margin: 0px 5px;
+    color: rgb(204, 168, 168);
+}
+.mic, .camera, .mglass2{
+    cursor: pointer;
+}
+
+.mglass2{
+    width: 25px;
+    height: 25x;
+}
+
+.img-btn{
+    /* padding: 0;
+    margin: 0;
+    width: 40px;
+    height: 40px; */
+    background: transparent;
+    border: none;
+}
+
+.text-container{
+    border-radius: 150px;
+    display: flex;
+    padding: 5px;
+    margin: 40px 0px;
+    width: auto;
+    max-width: 584px;
+    align-items: center;
+    
+}
+
+.logo-subtext{
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: relative;
+    left: 105px;
+    top: -15px
+}
+
+.form-control{
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+/* .border-full-rounded{
+    width: 450px;
+    
+    padding: 2px 20px;
+} */
+
+.camera {
+    margin-top: 6px;
+    width: 35px;
+    opacity: 0.8;
+}
+
+.my-container{
+    margin: 0px 35px;
+}
